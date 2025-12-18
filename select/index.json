@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "人生はコメディ",
+  "base_artist": "カンザキイオリ",
+  "createdAt": "2025-12-18T07:08:34.892269Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人生はコメディ",
+      "artist": "カンザキイオリ",
+      "has_synced": false,
+      "path": "select/pl_01_人生はコメディ_カンザキイオリ.txt"
+    }
+  ]
+}
